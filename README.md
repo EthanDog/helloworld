@@ -7,6 +7,4 @@ _italics_
 Adding in files as an example.
 
 
-You have to have changes to push into GIT or else it will say there is nothing changed!
-
-Testing more changes.
+ok if this works imgoing to be so hppy and then i will work on it more.
