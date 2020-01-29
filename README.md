@@ -5,3 +5,6 @@
 _italics_
 
 Adding in files as an example.
+
+
+You have to have changes to push into GIT or else it will say there is nothing changed!
